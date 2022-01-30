@@ -1,6 +1,6 @@
 # ofxRecord3D
 
-thin wrapper of [Record3D](https://github.com/marek-simonik/record3d)
+thin wrapper of [Record3D](https://github.com/marek-simonik/record3d) live stream RGBD video via USB
 
 ## note
 
